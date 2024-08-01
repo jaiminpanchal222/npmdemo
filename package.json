@@ -1,0 +1,14 @@
+{
+  "name": "myfirstpackage",
+  "version": "1.0.0",
+  "description": "this is my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "JaiminPanchal",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
